@@ -9,7 +9,7 @@
 - Kiszállás: sürgős esetben általában 30-60 percen belül; lakossági ügyfélnek nincs kiszállási díj
 - Fizetés: készpénz, bankkártya, átutalásos számla; a számla biztosítónak benyújtható
 - Kamerás csővizsgálat: DN 30-DN 400, HD felvétel és jegyzőkönyv
-- Google-értékelés: 5,0 (508 vélemény)
+- Google-értékelés: 5,0 (1095 vélemény)
 - Nyelvek: magyar, német
 
 ## Szolgáltatások
@@ -22,7 +22,7 @@
 - [WOMA csatornatisztítás, nagynyomású csatornamosás](https://ata-dugulaselharitas.hu/woma-csatornatisztitas/): WOMA, azaz nagynyomású csatornatisztítás lerakódások és elzáródások esetén. Tudja meg, mikor alkalmazható biztonságosan a vízsugaras csatornamosás.
 - [Kamerás csővizsgálat: jobb tudni, mint találgatni](https://ata-dugulaselharitas.hu/kameras-vizsgalat/): Kamerás csővizsgálat bontás nélkül, gyors és pontos hibafeltárással. Ismerje meg csőkamerás szolgáltatásunkat, és kérjen időpontot még ma!
 - [Mosdó duguláselhárítás, ha megáll a víz a mosdóban](https://ata-dugulaselharitas.hu/mosdo-dugulaselharitas/): Lassan folyik le a mosdó, szivárog a szifon vagy kellemetlen szagot tapasztal? Tudja meg, mi okozhatja a fürdőszobai lefolyó hibáját, és mikor érdemes segítséget kérni.
-- [Zuhanyzó- és kádugulás elhárítása](https://ata-dugulaselharitas.hu/zuhany-kad-dugulaselharitas/): Megáll a víz a zuhanytálcában vagy nem ürül ki a kád? Ismerje meg a haj és szappan okozta dugulások jeleit, a biztonságos tisztítást és a segítség lehetőségeit.
+- [Zuhanyzó- és káddugulás elhárítása](https://ata-dugulaselharitas.hu/zuhany-kad-dugulaselharitas/): Megáll a víz a zuhanytálcában vagy nem ürül ki a kád? Ismerje meg a haj és szappan okozta dugulások jeleit, a biztonságos tisztítást és a segítség lehetőségeit.
 
 ## Régiók
 - [Ágfalva](https://ata-dugulaselharitas.hu/dugulaselharitas-agfalva/)
@@ -44,4 +44,3 @@
 - [Eldugult a konyhai lefolyóm, mit tegyek?](https://ata-dugulaselharitas.hu/eldugult-a-konyhai-lefolyom-mit-tegyek/)
 
 ## Kapcsolódó
-- [ATA Csatornabélelés](https://ata-csatornabeleles.hu/): bontás nélküli csatornabélelés, főleg Budapesten
